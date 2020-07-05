@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(
     to left,
-    #3D49CC 0%,
+    #CC4747 0%,
     #9051CC 100%
     );
 }
@@ -15,4 +15,7 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.title {
+  color: #fffffb;
 }
